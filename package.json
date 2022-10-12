@@ -1,0 +1,30 @@
+{
+  "name": "modoasincrono",
+  "version": "1.0.0",
+  "description": "Modo Asincrono",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon promises/1_simple.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCZM17/modo_Asincrono.git"
+  },
+  "keywords": [
+    "eS6",
+    "es2015",
+    "modo",
+    "asincrono"
+  ],
+  "author": "Duvan Zapata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DCZM17/modo_Asincrono/issues"
+  },
+  "homepage": "https://github.com/DCZM17/modo_Asincrono#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
